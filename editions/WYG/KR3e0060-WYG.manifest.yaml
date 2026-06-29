@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR3e0060/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0060/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 格致餘論
+  date: '2015-08-24 23:06:16.619031'
+  source:
+    repository: kanripo
+    path: KR3e0060
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0060_000-WYG.yaml, hash: 'sha256:2c77f6943e7ba2013503c6a0f15412bce4c8cf0ba264f4796ebf45e58617c300'}
+  - {seq: 1, filename: KR3e0060_001-WYG.yaml, hash: 'sha256:ee8dfb1dbad9de14431345d3e62b2b2d916d99b22f390913ae8e4cc9ac2c93a7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0060_000-WYG.markers.yaml, hash: 'sha256:f2d8582f155bbdcf45d6ca8915bb2e480253dd138596205cfacac6cdf261e747'}
+  - {seq: 1, role: markers, filename: assets/KR3e0060_001-WYG.markers.yaml, hash: 'sha256:528fbf403de6df1f2770dbb8a25d2f1ea1a1c3ea7c16bb2f882c487fcb43eb61'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0060_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 301
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0060_WYG_000-3a
+    span:
+    - body
+    - 301
+    - 930
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0060_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 21748
+  label: 格致餘論
+  type: section
+  level: 1
+hash: sha256:5441cdb89bc029d98d0b5881e8e1b02c6bcaf61aa8ebbbd790b4470735444ec2
