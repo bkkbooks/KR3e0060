@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3e0060_000.yaml, hash: 'sha256:b4c73ca6ab32679fd4c24b015c1986a289eb3833ae1ce3dde2ab21a8776106ed'}
   - {seq: 1, filename: KR3e0060_001.yaml, hash: 'sha256:1df6551a260c6166893a78dc9f37375962f5f9b7ecc67fee9d29d176614b18bf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0060_000.markers.yaml, hash: 'sha256:d73d41dc3d570089b495d8fb77c824f370d3070bbbef9816e8b123540fa1b917'}
-  - {seq: 1, role: markers, filename: assets/KR3e0060_001.markers.yaml, hash: 'sha256:edb80a3a65d8ebb9c660b72158f446847157eff60104f0f5959f96c4fec90126'}
+  - {seq: 0, role: markers, filename: assets/KR3e0060_000.markers.yaml, hash: 'sha256:ac89e16b5884e924dfd9b3b26421138465992ebdef9b08833b63592b540b0f76'}
+  - {seq: 1, role: markers, filename: assets/KR3e0060_001.markers.yaml, hash: 'sha256:c47c117e195e23fba3a99d863d8456d79f867e5f87e1b0c0b2c65b33fcec4e9d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 格致餘論
   type: section
   level: 1
-hash: sha256:ac1a20e402f19e63a70ffd7f2c4276b653ad12495776876515de69612cd3f679
+hash: sha256:9d0d29cc1020cf592e13814087ae9c470dc388f56f93576c733a865fccbb6f63
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
